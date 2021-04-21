@@ -14,6 +14,7 @@ namespace calculator_assigment
     {
         double value = 0;
         double value2 = 0;
+        
         int rm = 0;
         string txt = "";
         bool press_op = false;
